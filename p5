@@ -1,0 +1,10 @@
+a. O(C+S)。
+b. O(logC+S)。
+c. O(logC+logS)。
+d. O(1+logS)。
+e. O(1)。
+f. O(logC+S)。
+g. O(1+SlogS)。
+h. O(ClogS)。
+
+
